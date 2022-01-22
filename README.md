@@ -6,8 +6,6 @@ I am Ilay Hamer (Hamer translates to hammer 🔨), a 13 year old programmer 🧑
 
 Currently, I am working 💪🏼 on my [personal site](https://www.ilayhamer.com) (It is in dutch only for now 🙁) that I am building 👷🏽 with React.js.
 
-Currently, I am learing 👨🏽‍🏫 c++.
-
 If you want to reach 🙋🏼‍♂️ out to me, contact me at contact@ilayhamer.com.
 
 <!--
