@@ -2,7 +2,7 @@
 
 > I am different, but everyone is.
 
-I am Ilay Hamer (Hamer translates to hammer 🔨), a 13 year old programmer 🧑🏽‍💻 living in the Netherlands.
+I am Ilay Hamer (Hamer translates to hammer 🔨), a 15 year old programmer 🧑🏽‍💻 living in the Netherlands.
 
 Currently, I am working 💪🏼 on my [personal site](https://www.ilayhamer.com) (It is in dutch only for now 🙁) that I am building 👷🏽 with React.js.
 
